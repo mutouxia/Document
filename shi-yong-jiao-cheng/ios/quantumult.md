@@ -8,7 +8,7 @@
 
 打开 Quantumult，点击底部的「Settings」进入设置页面。
 
-![](../../.gitbook/assets/image%20%2812%29.png)
+![](../../.gitbook/assets/image%20%2814%29.png)
 
 点击「Favorites」 进入订阅管理页面，然后点击右上角的「+」。
 
@@ -20,7 +20,7 @@
 
 添加完成后，会自动返回订阅管理页面，这时在 Server 分类下名称为「墙洞「的选项上向左轻扫，点击「Update」即可获取节点列表。
 
-![](../../.gitbook/assets/image%20%2811%29.png)
+![](../../.gitbook/assets/image%20%2813%29.png)
 
 
 
