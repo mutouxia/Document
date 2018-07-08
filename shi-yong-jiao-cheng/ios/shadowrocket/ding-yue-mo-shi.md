@@ -24,5 +24,5 @@
 
 选择「Subscribe」，将订阅地址复制的内容填入「URL」右边的编辑框，点击完成。
 
-![](../../../.gitbook/assets/image%20%2815%29.png)
+![](../../../.gitbook/assets/image%20%2818%29.png)
 

@@ -7,7 +7,7 @@
       * [负载均衡](shi-yong-jiao-cheng/windows/shadowsocksr/fu-zai-jun-heng.md)
     * [SS-Tap（游戏/特殊）](shi-yong-jiao-cheng/windows/sstap-you-xi-te-shu.md)
   * [macOS](shi-yong-jiao-cheng/macos/README.md)
-    * [ShadowsocksR](shi-yong-jiao-cheng/macos/shadowsocksr.md)
+    * [black hole](shi-yong-jiao-cheng/macos/shadowsocksr.md)
   * [Android](shi-yong-jiao-cheng/android/README.md)
     * [ShadowsocksR](shi-yong-jiao-cheng/android/shadowsocksr.md)
   * [iOS](shi-yong-jiao-cheng/ios/README.md)
