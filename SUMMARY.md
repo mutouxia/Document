@@ -23,7 +23,6 @@
   * [订阅地址 & 托管地址](shi-yong-jiao-cheng/ding-yue-di-zhi-tuo-guan-di-zhi.md)
 * [通用](tong-yong/README.md)
   * [固定端口（端口复用）](tong-yong/gu-ding-duan-kou-duan-kou-fu-yong.md)
-  * [监控面板](tong-yong/jian-kong-mian-ban.md)
   * [Telegram bot](tong-yong/telegram-bot.md)
   * [规则](tong-yong/gui-ze.md)
 

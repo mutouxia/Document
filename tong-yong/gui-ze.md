@@ -1,7 +1,7 @@
 # 规则
 
 {% hint style="info" %}
-Shadworcoekt / Quantumult / Surge 可搭配规则使用
+Surge / Shadworcoekt / Quantumult 可搭配规则使用
 {% endhint %}
 
 

@@ -1,7 +1,7 @@
 # Telegram bot
 
 {% hint style="info" %}
-您可以在「墙洞」-「用户中心」的「资料编辑」看到 Telegram 绑定指示，绑定您的账号，更多精彩功能等着您去发掘！
+您可以在「Dler Cloud」-「用户中心」的「资料编辑」看到 Telegram 绑定指示，绑定您的账号，更多精彩功能等着您去发掘！
 {% endhint %}
 
 
