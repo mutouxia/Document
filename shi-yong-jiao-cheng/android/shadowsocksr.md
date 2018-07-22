@@ -6,7 +6,7 @@
 
 
 
-打开 ShadowsocksR 客户端（可以在 墙洞.com 的「兼容软件」页面下载到客户端）。
+[下载](https://dlercloud.com/client.html)并安装
 
 ![](../../.gitbook/assets/ssr-android-4.png)
 

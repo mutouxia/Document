@@ -16,7 +16,7 @@
 
 
 
-安装过程中将可能提示，无需担心，这是因为 SS-Tap 需要使用 OpenVPN 的 TAP 设备驱动来创建虚拟网卡以实现类似 VPN 的效果。为了 SS-Tap 能正常运行，请点击「安装」。
+[下载](https://dlercloud.com/client.html)并安装，安装过程中将可能提示，无需担心，这是因为 SS-Tap 需要使用 OpenVPN 的 TAP 设备驱动来创建虚拟网卡以实现类似 VPN 的效果。为了 SS-Tap 能正常运行，请点击「安装」。
 
 ![](../../.gitbook/assets/jr6l9.png)
 

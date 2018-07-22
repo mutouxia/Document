@@ -13,11 +13,11 @@ Surge 不兼容 SSR 协议，因此运行 Workflow 时将自动修改 加密 / �
 
 因为协议兼容问题，在使用 Surge 时，其他客户端只可以使用「固定端口」模式。
 
-加密：chacha20-ietf-poly1305
+加密：aes-128-gcm
 
 协议：origin
 
-混淆：simple\_obfs\_tls
+混淆：simple\_obfs\_http
 
 因为兼容性，在使用 Surge 时，其他客户端只可以使用「固定端口」模式。
 {% endhint %}
@@ -30,7 +30,7 @@ Surge 不兼容 SSR 协议，因此运行 Workflow 时将自动修改 加密 / �
 
 
 
-到「App Store」搜索并下载「Workflow」，再到「墙洞」的「兼容软件」获取「🐰User Data」、「Rule OTA」
+到「App Store」搜索并下载「Workflow」，再到「Dler Cloud」的[「兼容软件」](https://dlercloud.com/client.html)获取「🐰User Data」、「Rule OTA」
 
 ![](../../../.gitbook/assets/img_1e0d35103d5e-1.jpeg)
 

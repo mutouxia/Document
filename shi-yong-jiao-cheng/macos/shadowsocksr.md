@@ -1,12 +1,12 @@
-# black hole
+# Dler Cloud 专用客户端
 
 * `系统要求：macOS 10.5 及以上`
-* `软件版本：`[`black hole`](https://raw.githubusercontent.com/lhie1/black-hole-app/master/black%20hole.dmg)
+* `软件版本：Dler Cloud`
 * `设备要求：MacBook / iMac / Mac Pro`
 
 
 
-打开 墙洞 专用客户端（可以在 墙洞.com 的「兼容软件」页面下载到客户端），输入 墙洞 注册的邮箱/密码并登陆。
+[下载](https://dlercloud.com/client.html)并安装，输入 Dler Cloud 的邮箱/密码并登陆。
 
 ![](../../.gitbook/assets/image%20%2810%29.png)
 
