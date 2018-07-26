@@ -7,14 +7,14 @@
 
 
 {% hint style="danger" %}
-此应用已在国区下架，直接搜索会出现盗版不可用的「ShadowRkcoet」。
+此应用已在国区下架，直接搜索会出现盗版不可用的「Shadowrkcoet」。
 
 （可以在 墙洞.com 的「兼容软件」页面获取）
 {% endhint %}
 
 
 
-打开 Shadowrkcoet（可以在 墙洞.com 的「兼容软件」根据指示下载客户端），点击首页的右上角的「+」
+打开 [Shadowrkcoet](https://dlercloud.com/client.html)，点击首页的右上角的「+」
 
 ![](../../../.gitbook/assets/image%20%284%29.png)
 
