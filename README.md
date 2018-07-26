@@ -1,7 +1,7 @@
 # Dler Cloud
 
 {% hint style="success" %}
-欢迎访问Dler Cloud的文档中心！
+欢迎访问 Dler Cloud 的文档中心！
 {% endhint %}
 
 {% hint style="info" %}
