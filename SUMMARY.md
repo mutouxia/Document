@@ -22,7 +22,7 @@
     * [Padavan](shi-yong-jiao-cheng/lu-you-qi/padavan.md)
   * [订阅地址 & 托管地址](shi-yong-jiao-cheng/ding-yue-di-zhi-tuo-guan-di-zhi.md)
 * [通用](tong-yong/README.md)
-  * [固定端口（端口复用）](tong-yong/gu-ding-duan-kou-duan-kou-fu-yong.md)
+  * [公共端口](tong-yong/gu-ding-duan-kou-duan-kou-fu-yong.md)
   * [Telegram bot](tong-yong/telegram-bot.md)
   * [规则](tong-yong/gui-ze.md)
 
