@@ -5,16 +5,24 @@
 {% endhint %}
 
 {% hint style="info" %}
-ShadowsocksR 使用「订阅模式」是目前最推荐的做法，使用后令客户端在每次启动是自动尝试更新配置文件，同时您也可以手动来立即更新节点信息。
+Shadowsocks/ShadowsocksR 使用「订阅模式」是目前最推荐的做法，使用后令客户端在每次启动是自动尝试更新配置文件，同时您也可以手动来立即更新节点信息。
 {% endhint %}
 
 {% hint style="info" %}
 Surge 使用「托管模式」是目前对小白最友好的方式，使用后令 Surge 在每 24 小时尝试更新节点 & 规则，同时您也可以手动来立即更新节点信息。
 {% endhint %}
 
-在 「墙洞」用户中心首页获取
+「dlercloud.com」用户中心
 
-![](../.gitbook/assets/meitu.jpg)
+![](../.gitbook/assets/jietu20181030-140450.jpg)
+
+  
 
 
+![](../.gitbook/assets/jietu20181030-140523.jpg)
+
+  
+
+
+![](../.gitbook/assets/jietu20181030-140546.jpg)
 

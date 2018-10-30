@@ -6,23 +6,23 @@
 
 
 
-打开 Quantumult，点击底部的「Settings」进入设置页面。
+{% hint style="danger" %}
+此应用已在国区下架，请自行准备非国区 Apple ID 下载
+{% endhint %}
 
-![](../../.gitbook/assets/image%20%2817%29.png)
+1. 将 Quantumult 下载到本地
+2. 登入 dlercloud.com 用户中心
+3. 找到 ALL-IN-ONE 模块
+4. 点击 Menu 中自己喜爱的模式
+5. 点击\[一键导入\]按钮
 
-点击「Favorites」 进入订阅管理页面，然后点击右上角的「+」。
+![](../../.gitbook/assets/img_0905.jpg)
 
-![](../../.gitbook/assets/image%20%285%29.png)
+![](../../.gitbook/assets/img_0907.jpg)
 
-在弹出的菜单中选择「Server」，在新的页面中，点击 「Name」，输入 `墙洞` 并保存，然后点击 「URL」，将订阅地址粘贴进去，并勾选下方的「Delete Option」。
+![](../../.gitbook/assets/img_0908.PNG)
 
-![](../../.gitbook/assets/ix6au.jpg)
+![](../../.gitbook/assets/img_0909.PNG)
 
-添加完成后，会自动返回订阅管理页面，这时在 Server 分类下名称为「墙洞「的选项上向左轻扫，点击「Update」即可获取节点列表。
-
-![](../../.gitbook/assets/image%20%2816%29.png)
-
-
-
-![](../../.gitbook/assets/img_dd6cfe2096da-1.jpeg)
+![](../../.gitbook/assets/img_0910.PNG)
 
