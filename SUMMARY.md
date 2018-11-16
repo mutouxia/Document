@@ -15,6 +15,7 @@
   * [Android](shi-yong-jiao-cheng/android/README.md)
     * [Surfboard](shi-yong-jiao-cheng/android/surfboard.md)
     * [ShadowsocksR](shi-yong-jiao-cheng/android/shadowsocksr.md)
+    * [ShadowsocksD](shi-yong-jiao-cheng/android/shadowsocksd.md)
   * [iOS](shi-yong-jiao-cheng/ios/README.md)
     * [Quantumult](shi-yong-jiao-cheng/ios/quantumult.md)
     * [Surge](shi-yong-jiao-cheng/ios/tuo-guan-mo-shi.md)

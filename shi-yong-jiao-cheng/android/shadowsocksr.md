@@ -1,7 +1,6 @@
 # ShadowsocksR
 
 * `系统要求：Android 4.4 及以上`
-* `软件版本：ShadowsocksR 最新版`
 * `设备要求：Android Phone / Tablet`
 
 

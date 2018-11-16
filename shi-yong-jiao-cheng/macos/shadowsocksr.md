@@ -1,12 +1,12 @@
 # ShadowsocksR（专属）
 
 * `系统要求：macOS 10.5 及以上`
-* `软件版本：Dler Cloud`
 * `设备要求：MacBook / iMac / Mac Pro`
 
 
 
-[下载](https://dlercloud.com/client.html)并安装，输入 Dler Cloud 的邮箱/密码并登陆。
+1. [下载](https://dlercloud.com/client.html)到本地并安装
+2. 输入 dlercloud.com 的邮箱/密码登陆
 
 ![](../../.gitbook/assets/image%20%2810%29.png)
 
