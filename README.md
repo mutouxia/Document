@@ -6,6 +6,8 @@
 
 {% hint style="info" %}
 要查看文档，请点击侧边栏的相关文章。
+
+要下载软件，请前往 Dler Cloud 软件中心。
 {% endhint %}
 
 
