@@ -1,4 +1,4 @@
-# Dler Cloud 专用客户端
+# ShadowsocksR（专属）
 
 * `系统要求：macOS 10.5 及以上`
 * `软件版本：Dler Cloud`
