@@ -3,10 +3,6 @@
 * `系统要求：Android 4.4 及以上`
 * `设备要求：Android Phone / Tablet`
 
-
-
-[下载](https://dlercloud.com/client.html)并安装
-
 ![](../../.gitbook/assets/ssr-android-4.png)
 
 然后点击顶部的「ShadowsocksR ⬇」区域进入节点列表。

@@ -9,11 +9,10 @@
 此应用已在国区下架，请自行准备非国区 Apple ID 下载
 {% endhint %}
 
-1. 将 Shadowrocket 下载到本地
-2. 登入 dlercloud.com 用户中心
-3. 找到 ALL-IN-ONE 模块
-4. 点击 Menu 中自己喜爱的模式
-5. 点击\[一键导入\]按钮
+1. 登入 dlercloud.com 用户中心
+2. 找到 ALL-IN-ONE 模块
+3. 点击 Menu 中自己喜爱的模式
+4. 点击\[一键导入\]按钮
 
 ![](../../.gitbook/assets/img_0899.jpg)
 

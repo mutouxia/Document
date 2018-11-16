@@ -3,5 +3,13 @@
 * `系统要求：Windows XP 及以上（64-bit）`
 * `设备要求：Windows PC / Tablet`
 
-请等待管理员补充，如果您需要帮助请联系：lhie1x@gmail.com
+1. 输入 dlercloud.com 的邮箱/密码登陆
+2. 点击左侧菜单栏「General」并勾选「System Proxy」
+3. 点击左侧菜单栏「Proxies」即可切换节点或模式
+
+![](../../.gitbook/assets/2018-11-16-15.54.10.jpg)
+
+![](../../.gitbook/assets/image_2018-11-16_15-55-16.png)
+
+![](../../.gitbook/assets/jietu20181116-155623.png)
 

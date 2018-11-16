@@ -3,14 +3,10 @@
 * `系统要求：macOS 10.5 及以上`
 * `设备要求：MacBook / iMac / Mac Pro`
 
-
-
-1. [下载](https://dlercloud.com/client.html)到本地并安装
-2. 输入 dlercloud.com 的邮箱/密码登陆
+1. 输入 dlercloud.com 的邮箱/密码登陆
+2. 屏幕右上角会显示「成功更新订阅」
 
 ![](../../.gitbook/assets/image%20%2810%29.png)
-
-右上角会显示「成功更新订阅」
 
 ![](../../.gitbook/assets/image%20%2814%29.png)
 

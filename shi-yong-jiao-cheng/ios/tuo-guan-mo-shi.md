@@ -12,11 +12,10 @@
 Surge 不兼容 SSR 协议，推荐切换为 SS 模式使用
 {% endhint %}
 
-1. 将 Surge 下载到本地
-2. 登入 dlercloud.com 用户中心
-3. 找到 ALL-IN-ONE 模块
-4. 点击 Menu 中的 SS
-5. 点击\[一键托管\]按钮（新手或轻量化用户推荐导入：**Surge 2 / Surfboard 个人端口托管地址**）
+1. 登入 dlercloud.com 用户中心
+2. 找到 ALL-IN-ONE 模块
+3. 点击 Menu 中的 SS
+4. 点击\[一键托管\]按钮（新手或轻量化用户推荐导入：**Surge 2 / Surfboard 个人端口托管地址**）
 
 ![](../../.gitbook/assets/img_0901.jpg)
 
