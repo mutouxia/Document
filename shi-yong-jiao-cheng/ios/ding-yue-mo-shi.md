@@ -12,7 +12,7 @@
 1. 登入 dlercloud.com 用户中心
 2. 找到 ALL-IN-ONE 模块
 3. 点击 Menu 中自己喜爱的模式
-4. 点击\[一键导入\]按钮
+4. 点击「一键导入」按钮
 
 ![](../../.gitbook/assets/img_0899.jpg)
 
