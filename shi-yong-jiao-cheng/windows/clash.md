@@ -13,3 +13,9 @@
 
 ![](../../.gitbook/assets/jietu20181116-155623.png)
 
+{% hint style="danger" %}
+Windows 10 第一次运行会提示被阻止，点击「更多信息」 - 「仍要运行」
+{% endhint %}
+
+![](../../.gitbook/assets/2018-11-16-15.54.06.jpg)
+
