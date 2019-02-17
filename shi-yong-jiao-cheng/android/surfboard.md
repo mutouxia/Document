@@ -7,7 +7,7 @@
 Surfboard 不兼容 SSR 协议，推荐切换为 SS 模式使用
 {% endhint %}
 
-1. 登入 dlercloud.com 用户中心
+1. 登入 dlercloud.net 用户中心
 2. 找到 ALL-IN-ONE 模块
 3. 选择「SS」分组
 4. 点击「一键导入」按钮

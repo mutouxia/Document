@@ -7,7 +7,7 @@
 Clash 不兼容 SSR 协议，推荐切换为 SS 模式使用
 {% endhint %}
 
-1. 输入 dlercloud.com 的邮箱/密码登陆
+1. 输入 dlercloud.net 的邮箱/密码登陆
 2. 点击左侧菜单栏「General」并勾选「System Proxy」
 3. 点击左侧菜单栏「Proxies」即可切换节点或模式
 

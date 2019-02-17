@@ -9,7 +9,7 @@ Surge 不兼容 SSR 协议，推荐切换为 SS 模式使用
 {% endhint %}
 
 1. 将 Surge 3 [下载](https://nssurge.com)到本地
-2. 登入 dlercloud.com 用户中心
+2. 登入 dlercloud.net 用户中心
 3. 复制托管地址并根据以下步骤导入
 
 ![](../../.gitbook/assets/jietu20181116-152325.png)
