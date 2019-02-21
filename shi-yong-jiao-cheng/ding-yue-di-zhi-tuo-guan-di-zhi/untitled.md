@@ -1,23 +1,34 @@
 # 可选项参数
 
-| 类型 | 订阅 | 托管 | 托管：Surge 3 Pro | List：Surge 3 Pro |
-| :--- | :--- | :--- | :--- | :--- |
-| 等级 | lv | class | class | class |
-| 功能 | - | type | type | type |
-| 地区 | - | area | area | area |
-| 运营商 | - | isp | isp | isp |
-| MitM | - | - | mitm | - |
-| 流媒体策略组 | - | - | media | - |
+#### 订阅
 
-| 参数 | 变量 |
-| :--- | :--- |
-| mitm | 1 |
-| media | 1 |
-| lv | 1～3 |
-| class | bronze / silver / gold |
-| type | all / auto / media / relay / back / gamer |
-| area | 当前所有节点国家的英文缩写 |
-| isp | 当前所有节点运营商或后缀名（如有空格请使用"%20"） |
+| 参数 | 类型 | 必须 | 变量或描述 | 兼容 | 复用 |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| lv | Int | 否 | 1～3 | - | ✕ |
+
+#### 托管
+
+| 参数 | 类型 | 必须 | 变量或描述 | 兼容 | 复用 |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| mitm | Int | 否 | 1 | Surge 3 Pro | ✓ |
+| media | Int | 否 | 1 | Surge 3 Pro | ✓ |
+| class | String | 否 | bronze / silver / gold | - | ✓ |
+| area | String | 否 | 节点的国家英文缩写（eg:hk） | - | ✓ |
+| isp | String | 否 | 节点的网络运营商或后缀名（空格请用"%20"代替） | - | ✓ |
+
+#### List
+
+| 参数 | 类型 | 必须 | 变量或描述 | 兼容 | 复用 |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| list | Int | 是 | 1 | Surge 3 Pro | ✓ |
+| type | String | 否 | all / auto / media / relay / back / gamer | Surge 3 Pro | ✓ |
+| class | String | 否 | bronze / silver / gold | Surge 3 Pro | ✓ |
+| area | String | 否 | 节点的国家英文缩写（eg:hk） | Surge 3 Pro | ✓ |
+| isp | String | 否 | 节点的网络运营商或后缀名（空格请用"%20"代替） | Surge 3 Pro | ✓ |
 
 
+
+使用方法：将参数添加到托管/订阅地址尾部
+
+`https://dler.cloud/link/token?surge=3` `&mitm=1` `&class=gold`
 
