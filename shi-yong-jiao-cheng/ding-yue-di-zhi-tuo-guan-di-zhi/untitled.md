@@ -1,6 +1,6 @@
 # 可选项参数
 
-| 类型 | 订阅：All | 托管：All | 托管：Surge 3 Pro | List：Surge 3 Pro |
+| 类型 | 订阅 | 托管 | 托管：Surge 3 Pro | List：Surge 3 Pro |
 | :--- | :--- | :--- | :--- | :--- |
 | 等级 | lv | class | class | class |
 | 功能 | - | type | type | type |
