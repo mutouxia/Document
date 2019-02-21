@@ -11,7 +11,7 @@
 | 参数 | 类型 | 必须 | 变量或描述 | 兼容 | 复用 |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | mitm | Int | 否 | 1 | Surge 3 Pro | ✓ |
-| media | Int | 否 | 1 | Surge 3 Pro | ✓ |
+| media | Int | 否 | 1 | Surge 3 Pro | ✕ |
 | class | String | 否 | bronze / silver / gold | - | ✓ |
 | area | String | 否 | 节点的国家英文缩写（eg:hk） | - | ✓ |
 | isp | String | 否 | 节点的网络运营商或后缀名（空格请用"%20"代替） | - | ✓ |
