@@ -24,6 +24,7 @@
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | list | Int | 是 | 1 | Surge 3 Pro | ✓ |
 | type | String | 否 | all / auto / media / relay / back / gamer | Surge 3 Pro | ✓ |
+| notype | String | 否 | all / auto / media / relay / back / gamer | Surge 3 Pro | ✓ |
 | class | String | 否 | bronze / silver / gold | Surge 3 Pro | ✓ |
 | noclass | String | 否 | bronze / silver / gold | Surge 3 Pro | ✓ |
 | area | String | 否 | 节点的国家英文缩写（eg:hk） | Surge 3 Pro | ✓ |
