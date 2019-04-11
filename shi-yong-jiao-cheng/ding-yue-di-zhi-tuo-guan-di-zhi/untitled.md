@@ -4,16 +4,16 @@
 
 | 参数 | 类型 | 必须 | 变量或描述 | 兼容 | 多重条件 | 复用 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| is\_mu | Int | 否 | 1 | - | ✓ | ✕ |
+| is\_mu | Int | 否 | 1（公共端口） | - | ✓ | ✕ |
 | lv | Int | 否 | 1～3（bronze / silver / gold） | - | ✕ | ✕ |
 
 #### 托管
 
 | 参数 | 类型 | 必须 | 变量或描述 | 兼容 | 多重条件 | 复用 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| is\_mu | Int | 否 | 1 | - | ✓ |  |
-| mitm | Int | 否 | 1 | Surge 3 Pro | ✓ | ✕ |
-| media | Int | 否 | 1 | Surge 3 Pro | ✕ | ✕ |
+| is\_mu | Int | 否 | 1（公共端口） | - | ✓ |  |
+| mitm | Int | 否 | 1（MitM 证书） | Surge 3 Pro | ✓ | ✕ |
+| media | Int | 否 | 1（流媒体规则） | Surge 3 Pro | ✕ | ✕ |
 | class | String | 否 | bronze / silver / gold | - | ✓ | ✕ |
 | noclass | String | 否 | bronze / silver / gold | - | ✓ | ✕ |
 | area | String | 否 | 节点的国家英文缩写（eg:hk） | - | ✓ | ✓ |
