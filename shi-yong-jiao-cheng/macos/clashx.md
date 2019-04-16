@@ -4,7 +4,7 @@
 * `设备要求：MacBook / iMac / Mac Pro`
 
 {% hint style="info" %}
-ClashX 不兼容 SSR 协议，推荐切换为 SS 模式使用
+ClashX 不兼容 SSR 协议
 {% endhint %}
 
 {% hint style="warning" %}
@@ -15,7 +15,7 @@ ClashX 首次运行会提示是否安装帮助程序（Helper）。此帮助程�
 
 ![](../../.gitbook/assets/wx20190129-201359-2x.png)
 
-1. 从右上角的状态栏找到 ClashX 图标并进行鼠标右键，左键点击 \[Dler Cloud：未登陆\] ，输入 dlercloud.net 的邮箱/密码登陆
+1. 从右上角的状态栏找到 ClashX 图标并进行鼠标右键，左键点击 \[Dler Cloud：未登陆\] ，输入邮箱/密码登陆
 2. 等待弹出窗口：配置获取成功
 3. 点击 \[设置为系统代理\] 即可
 4. 5. 

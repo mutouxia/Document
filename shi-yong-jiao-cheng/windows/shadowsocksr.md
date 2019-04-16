@@ -5,7 +5,7 @@
 * `设备要求：Windows PC / Tablet`
 
 {% hint style="info" %}
-SSD 不兼容 SSR 协议，推荐切换为 SS 模式使用
+ShadowsocksD 不兼容 SSR 协议
 {% endhint %}
 
 1. 右键单击桌面右下角的托盘图标，点击订阅 - 管理
