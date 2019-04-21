@@ -27,7 +27,7 @@
 | 参数 | 类型 | 必须 | 变量或描述 | 兼容 | 多重条件 | 复用 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | list | Int | 是 | 1 | Surge 3 Pro | ✓ | ✕ |
-| type | String | 否 | all / auto / media / back | Surge 3 Pro | ✓ | ✕ |
+| type | String | 否 | all / auto / media / relay / back | Surge 3 Pro | ✓ | ✕ |
 | class | String | 否 | bronze / silver / gold | Surge 3 Pro | ✓ | ✕ |
 | noclass | String | 否 | bronze / silver / gold | Surge 3 Pro | ✓ | ✕ |
 | area | String | 否 | 节点的国家英文缩写（eg:hk） | Surge 3 Pro | ✓ | ✓ |
