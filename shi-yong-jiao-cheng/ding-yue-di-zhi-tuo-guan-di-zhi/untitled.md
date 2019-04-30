@@ -13,7 +13,7 @@
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | is\_mu | Int | 否 | 1（公共端口） | - | ✓ |  |
 | mitm | Int | 否 | 1（MitM 证书） | Surge 3 Pro | ✓ | ✕ |
-| type | String | 否 | relay | Surge 3 Pro | ✓ | ✕ |
+| type | String | 否 | relay | - | ✓ | ✕ |
 | media | Int | 否 | 1（流媒体规则） | Surge 3 Pro | ✕ | ✕ |
 | class | String | 否 | bronze / silver / gold | - | ✓ | ✕ |
 | noclass | String | 否 | bronze / silver / gold | - | ✓ | ✕ |
