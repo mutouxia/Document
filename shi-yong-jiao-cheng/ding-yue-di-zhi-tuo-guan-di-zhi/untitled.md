@@ -14,10 +14,10 @@
 | is\_mu | Int | 否 | 1（公共端口） | - | ✓ |  |
 | mitm | Int | 否 | 1（MitM 证书） | Surge 3 Pro | ✓ | ✕ |
 | type | String | 否 | media / relay / back | - | ✓ | ✕ |
-| media | Int | 否 | 1（流媒体规则） | Surge 3 Pro | ✕ | ✕ |
 | class | String | 否 | bronze / silver / gold | - | ✓ | ✕ |
 | noclass | String | 否 | bronze / silver / gold | - | ✓ | ✕ |
 | area | String | 否 | 节点的国家英文缩写（eg:hk） | - | ✓ | ✓ |
+| noarea | String | 否 | 节点的国家英文缩写（eg:hk） |  |  |  |
 | isp | String | 否 | 节点的网络运营商或后缀名（空格请用"%20"代替） | - | ✓ | ✕ |
 | noisp | String | 否 | 节点的网络运营商或后缀名（空格请用"%20"代替） | - | ✓ | ✕ |
 | source | URL | 否 | 自定义规则 | - | ✓ | ✕ |
