@@ -12,7 +12,7 @@
 | 参数 | 类型 | 必须 | 变量或描述 | 兼容 | 多重条件 | 复用 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | is\_mu | Int | 否 | 1（公共端口） | - | ✓ |  |
-| mitm | Int | 否 | 1（MitM 证书） | Surge 3 Pro | ✓ | ✕ |
+| mitm | Int | 否 | 1（MitM 证书） | Surge 3 | ✓ | ✕ |
 | type | String | 否 | media / relay / back | - | ✓ | ✕ |
 | class | String | 否 | bronze / silver / gold | - | ✓ | ✕ |
 | noclass | String | 否 | bronze / silver / gold | - | ✓ | ✕ |
@@ -22,19 +22,21 @@
 | noisp | String | 否 | 节点的网络运营商或后缀名（空格请用"%20"代替） | - | ✓ | ✕ |
 | source | URL | 否 | 自定义规则 | - | ✓ | ✕ |
 | custom | URL | 否 | 在当前托管规则前面加入自定义规则 | - | ✓ | ✕ |
+| obfs\_host | URL | 否 | 自定义混淆参数 | - | ✓ | ✕ |
 
 #### List
 
 | 参数 | 类型 | 必须 | 变量或描述 | 兼容 | 多重条件 | 复用 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| list | Int | 是 | 1 | Surge 3 Pro | ✓ | ✕ |
-| type | String | 否 | all / auto / media / relay / back | Surge 3 Pro | ✓ | ✕ |
-| class | String | 否 | bronze / silver / gold | Surge 3 Pro | ✓ | ✕ |
-| noclass | String | 否 | bronze / silver / gold | Surge 3 Pro | ✓ | ✕ |
-| area | String | 否 | 节点的国家英文缩写（eg:hk） | Surge 3 Pro | ✓ | ✓ |
-| noarea | String | 否 | 节点的国家英文缩写（eg:hk） | Surge 3 Pro | ✓ | ✕ |
-| isp | String | 否 | 节点的网络运营商或后缀名（空格请用"%20"代替） | Surge 3 Pro | ✓ | ✕ |
-| noisp | String | 否 | 节点的网络运营商或后缀名（空格请用"%20"代替） | Surge 3 Pro | ✓ | ✕ |
+| list | Int | 是 | 1 | Surge 3 | ✓ | ✕ |
+| type | String | 否 | all / auto / media / relay / back | Surge 3 | ✓ | ✕ |
+| class | String | 否 | bronze / silver / gold | Surge 3 | ✓ | ✕ |
+| noclass | String | 否 | bronze / silver / gold | Surge 3 | ✓ | ✕ |
+| area | String | 否 | 节点的国家英文缩写（eg:hk） | Surge 3 | ✓ | ✓ |
+| noarea | String | 否 | 节点的国家英文缩写（eg:hk） | Surge 3 | ✓ | ✕ |
+| isp | String | 否 | 节点的网络运营商或后缀名（空格请用"%20"代替） | Surge 3 | ✓ | ✕ |
+| noisp | String | 否 | 节点的网络运营商或后缀名（空格请用"%20"代替） | Surge 3 | ✓ | ✕ |
+| obfs\_host | URL | 否 | 自定义混淆参数 | Surge 3 | ✓ | ✕ |
 
 多重条件：多个可选项参数搭配使用
 
