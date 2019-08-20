@@ -22,6 +22,8 @@
 | noisp | String | 否 | 节点的网络运营商或后缀名（空格请用"%20"代替） | - | ✓ | ✕ |
 | source | URL | 否 | 自定义规则 | - | ✓ | ✕ |
 | custom | URL | 否 | 在当前托管规则前面加入自定义规则 | - | ✓ | ✕ |
+| dns | Int | 否 | 为当前规则加入自定义DNS | Clash | ✓ | ✕ |
+| tap | Int | 否 | TAP模式 | Clash | ✓ | ✕ |
 
 #### List
 
