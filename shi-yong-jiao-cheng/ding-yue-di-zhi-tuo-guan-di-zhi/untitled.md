@@ -37,7 +37,6 @@
 | noarea | String | 否 | 节点的国家英文缩写（eg:hk） | Surge 3 | ✓ | ✕ |
 | isp | String | 否 | 节点的网络运营商或后缀名（空格请用"%20"代替） | Surge 3 | ✓ | ✕ |
 | noisp | String | 否 | 节点的网络运营商或后缀名（空格请用"%20"代替） | Surge 3 | ✓ | ✕ |
-| obfs\_host | URL | 否 | 自定义混淆参数 | Surge 3 | ✓ | ✕ |
 
 多重条件：多个可选项参数搭配使用
 
