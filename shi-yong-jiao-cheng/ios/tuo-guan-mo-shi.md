@@ -10,14 +10,10 @@
 此应用已在国区下架，请自行准备非国区 Apple ID 下载。
 
 Surge 不兼容 SSR 协议
-
-Surge 2 用户请使用 \[推荐模式 B\]
 {% endhint %}
 
-1. 登入用户中心
-2. 找到 ALL-IN-ONE 模块
-3. 点击 Menu 中的 SS
-4. 点击「一键托管」按钮
+1. 登入 Dler Cloud 用户中心
+2. 点击「一键导入」按钮或手动复制托管地址导入
 
 ![](../../.gitbook/assets/img_0901.jpg)
 
