@@ -1,13 +1,11 @@
-# Clash（专属）
+# Clash
 
 * `系统要求：Windows XP 及以上（64-bit）`
 * `设备要求：Windows PC / Tablet`
 
 {% hint style="info" %}
-Clash 不兼容 SSR 协议，且新版不在支持 chacha20 加密方式。
+Clash 不兼容 SSR 协议，且当前最新版本不再支持 chacha20 加密方式
 {% endhint %}
-
-### 从网站 [下载Clash专版](https://dlercloud.sgp1.cdn.digitaloceanspaces.com/Download/clash-win.exe) 后，按下图操作
 
 ![](../../.gitbook/assets/1.jpg)
 

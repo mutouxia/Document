@@ -10,9 +10,9 @@
 此应用已在国区下架，请自行准备非国区 Apple ID 下载。
 
 Surge 不兼容 SSR 协议
-
-Surge 2 用户请使用 \[推荐模式 B\]
 {% endhint %}
+
+
 
 1. 登入用户中心
 2. 找到 ALL-IN-ONE 模块

@@ -1,6 +1,11 @@
 # Clash for Android
 
-#### 下载安装 Clash for Android 后，按下图操作
+* `系统要求：Android 4.4 及以上`
+* `设备要求：Android Phone / Tablet`
+
+{% hint style="info" %}
+Clash for Android 不兼容 SSR 协议
+{% endhint %}
 
 ![](../../.gitbook/assets/11.jpg)
 
