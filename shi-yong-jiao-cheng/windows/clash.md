@@ -7,6 +7,12 @@
 Clash 不兼容 SSR 协议，且当前最新版本不再支持 chacha20 加密方式
 {% endhint %}
 
+{% hint style="warning" %}
+Windows 10 第一次运行会提示被阻止，点击「更多信息」 - 「仍要运行」
+{% endhint %}
+
+![](../../.gitbook/assets/2018-11-16-15.54.06.jpg)
+
 ![](../../.gitbook/assets/1.jpg)
 
 ![](../../.gitbook/assets/2.jpg)
@@ -19,9 +25,7 @@ Clash 不兼容 SSR 协议，且当前最新版本不再支持 chacha20 加密�
 
 ![](../../.gitbook/assets/6.jpg)
 
-{% hint style="danger" %}
-Windows 10 第一次运行会提示被阻止，点击「更多信息」 - 「仍要运行」
-{% endhint %}
+{% hint style="warning" %}
 
-![](../../.gitbook/assets/2018-11-16-15.54.06.jpg)
+{% endhint %}
 
