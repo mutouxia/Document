@@ -13,19 +13,26 @@ Windows 10 第一次运行会提示被阻止，点击「更多信息」 - 「仍
 
 ![](../../.gitbook/assets/2018-11-16-15.54.06.jpg)
 
+1. 输入邮箱/密码登陆
+2. 勾选 \[System Proxy\] 即可
+
 ![](../../.gitbook/assets/1.jpg)
 
 ![](../../.gitbook/assets/2.jpg)
-
-![](../../.gitbook/assets/3%20%281%29.jpg)
-
-![](../../.gitbook/assets/4.jpg)
 
 ![](../../.gitbook/assets/5.jpg)
 
 ![](../../.gitbook/assets/6.jpg)
 
-{% hint style="warning" %}
-
+{% hint style="danger" %}
+报错修复
 {% endhint %}
+
+{% hint style="danger" %}
+报错修复
+{% endhint %}
+
+![](../../.gitbook/assets/3%20%281%29.jpg)
+
+![](../../.gitbook/assets/4.jpg)
 

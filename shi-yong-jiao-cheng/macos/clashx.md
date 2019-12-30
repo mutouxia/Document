@@ -1,4 +1,4 @@
-# ClashX
+# ClashX（专属）
 
 * `系统要求：macOS 10.5 及以上`
 * `设备要求：MacBook / iMac / Mac Pro`
@@ -18,7 +18,7 @@ ClashX 首次运行会提示是否安装帮助程序（Helper）。此帮助程�
 1. 从右上角的状态栏找到 ClashX 图标并进行鼠标右键，左键点击 \[Dler Cloud：未登陆\] ，输入邮箱/密码登陆
 2. 等待弹出窗口：配置获取成功
 3. 点击 \[设置为系统代理\] 即可
-
+4. 5. 
 ![](../../.gitbook/assets/wx20190129-202158-2x.png)
 
 ![](../../.gitbook/assets/wx20190129-201536-2x.png)
