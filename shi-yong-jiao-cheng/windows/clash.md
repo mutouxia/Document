@@ -4,18 +4,22 @@
 * `设备要求：Windows PC / Tablet`
 
 {% hint style="info" %}
-Clash 不兼容 SSR 协议
+Clash 不兼容 SSR 协议，且新版不在支持 chacha20 加密方式。
 {% endhint %}
 
-1. 输入的邮箱/密码登陆
-2. 点击左侧菜单栏「General」并勾选「System Proxy」
-3. 点击左侧菜单栏「Proxies」即可切换节点或模式
+### 从网站 [下载Clash专版](https://dlercloud.sgp1.cdn.digitaloceanspaces.com/Download/clash-win.exe) 后，按下图操作
 
-![](../../.gitbook/assets/2018-11-16-15.54.10.jpg)
+![](../../.gitbook/assets/1.jpg)
 
-![](../../.gitbook/assets/image_2018-11-16_15-55-16.png)
+![](../../.gitbook/assets/2.jpg)
 
-![](../../.gitbook/assets/jietu20181116-155623.png)
+![](../../.gitbook/assets/3%20%281%29.jpg)
+
+![](../../.gitbook/assets/4.jpg)
+
+![](../../.gitbook/assets/5.jpg)
+
+![](../../.gitbook/assets/6.jpg)
 
 {% hint style="danger" %}
 Windows 10 第一次运行会提示被阻止，点击「更多信息」 - 「仍要运行」
