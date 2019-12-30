@@ -1,4 +1,4 @@
-# Surge 3
+# Surge 3+ Pro
 
 * `系统要求：macOS 10.5 及以上`
 * `软件版本：Surge 3 for macOS`
