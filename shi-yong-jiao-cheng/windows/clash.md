@@ -28,10 +28,6 @@ Windows 10 第一次运行会提示被阻止，点击「更多信息」 - 「仍
 报错修复
 {% endhint %}
 
-{% hint style="danger" %}
-报错修复
-{% endhint %}
-
 ![](../../.gitbook/assets/3%20%281%29.jpg)
 
 ![](../../.gitbook/assets/4.jpg)
