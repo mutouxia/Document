@@ -10,6 +10,7 @@
     * [ClashX（专属）](shi-yong-jiao-cheng/macos/clashx.md)
     * [Surge 3](shi-yong-jiao-cheng/macos/surge.md)
   * [Android](shi-yong-jiao-cheng/android/README.md)
+    * [Clash for Android](shi-yong-jiao-cheng/android/clash-for-android.md)
     * [Surfboard](shi-yong-jiao-cheng/android/surfboard.md)
     * [ShadowsocksD](shi-yong-jiao-cheng/android/shadowsocksd.md)
   * [iOS](shi-yong-jiao-cheng/ios/README.md)
