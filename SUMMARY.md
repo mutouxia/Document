@@ -3,7 +3,7 @@
 * [Dler Cloud](README.md)
 * [使用教程](shi-yong-jiao-cheng/README.md)
   * [Windows](shi-yong-jiao-cheng/windows/README.md)
-    * [Clash](shi-yong-jiao-cheng/windows/clash.md)
+    * [Clash for Windows](shi-yong-jiao-cheng/windows/clash.md)
     * [ShadowsocksD](shi-yong-jiao-cheng/windows/shadowsocksr.md)
     * [SS-Tap（游戏/特殊）](shi-yong-jiao-cheng/windows/sstap-you-xi-te-shu.md)
   * [macOS](shi-yong-jiao-cheng/macos/README.md)
