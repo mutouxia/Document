@@ -17,11 +17,15 @@ Shadowsocks/ShadowsocksR/ShadowsocksD 使用「订阅模式」，客户端在每
 
 「dlercloud.com」用户中心
 
+###   SS + SSR\(IPLC\)
+
 ![](../../.gitbook/assets/1.jpg)
 
 ![](../../.gitbook/assets/12.jpg)
 
 ![](../../.gitbook/assets/11%20%281%29.jpg)
+
+### V2Ray
 
 ![](../../.gitbook/assets/21.jpg)
 
