@@ -12,7 +12,7 @@ Clash for Android 不兼容 SSR 协议
 
 ![](../../.gitbook/assets/11.jpg)
 
-![](../../.gitbook/assets/22%20%281%29.jpg)
+![](../../.gitbook/assets/22%20%282%29.jpg)
 
 ![](../../.gitbook/assets/33.jpg)
 
