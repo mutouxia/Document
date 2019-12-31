@@ -17,15 +17,5 @@ Shadowsocks/ShadowsocksR/ShadowsocksD 使用「订阅模式」，客户端在每
 
 「dlercloud.com」用户中心
 
-![](../../.gitbook/assets/jietu20181030-140450.jpg)
 
-  
-
-
-![](../../.gitbook/assets/jietu20181030-140523.jpg)
-
-  
-
-
-![](../../.gitbook/assets/jietu20181030-140546.jpg)
 
