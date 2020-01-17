@@ -19,7 +19,6 @@
     * [Shadowrocket](shi-yong-jiao-cheng/ios/ding-yue-mo-shi.md)
   * [路由器](shi-yong-jiao-cheng/lu-you-qi/README.md)
     * [Merlin](shi-yong-jiao-cheng/lu-you-qi/merlin.md)
-    * [Padavan](shi-yong-jiao-cheng/lu-you-qi/padavan.md)
   * [订阅地址 & 托管地址](shi-yong-jiao-cheng/ding-yue-di-zhi-tuo-guan-di-zhi/README.md)
     * [可选项参数](shi-yong-jiao-cheng/ding-yue-di-zhi-tuo-guan-di-zhi/untitled.md)
 * [通用](tong-yong/README.md)
