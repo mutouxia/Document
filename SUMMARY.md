@@ -9,7 +9,7 @@
     * [SS-Tap（游戏/特殊）](shi-yong-jiao-cheng/windows/sstap-you-xi-te-shu.md)
   * [macOS](shi-yong-jiao-cheng/macos/README.md)
     * [ClashX](shi-yong-jiao-cheng/macos/clashx.md)
-    * [Surge 3+ Pro](shi-yong-jiao-cheng/macos/surge.md)
+    * [Surge Pro](shi-yong-jiao-cheng/macos/surge.md)
   * [Android](shi-yong-jiao-cheng/android/README.md)
     * [Clash for Android](shi-yong-jiao-cheng/android/clash-for-android.md)
     * [Surfboard](shi-yong-jiao-cheng/android/surfboard.md)
