@@ -70,7 +70,7 @@
       <td style="text-align:left">class</td>
       <td style="text-align:left">String</td>
       <td style="text-align:left">&#x5426;</td>
-      <td style="text-align:left">bronze / silver / gold</td>
+      <td style="text-align:left">1&#xFF5E;4</td>
       <td style="text-align:left">
         <p>Surge Pro</p>
         <p>QuantumultX</p>
@@ -83,7 +83,7 @@
       <td style="text-align:left">noclass</td>
       <td style="text-align:left">String</td>
       <td style="text-align:left">&#x5426;</td>
-      <td style="text-align:left">bronze / silver / gold</td>
+      <td style="text-align:left">1&#xFF5E;4</td>
       <td style="text-align:left">
         <p>Surge Pro</p>
         <p>QuantumultX</p>
