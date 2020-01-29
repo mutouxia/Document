@@ -13,7 +13,7 @@
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | is\_mu | Int | 否 | 1（公共端口） | - | ✓ |  |
 | mitm | Int | 否 | 1（MitM 证书） | Surge Pro | ✓ | ✕ |
-| type | String | 否 | media / gamer / relay / back | - | ✓ | ✕ |
+| type | String | 否 | media / relay / back | - | ✓ | ✕ |
 | class | String | 否 | 1～4 | - | ✓ | ✕ |
 | noclass | String | 否 | 1～4 | - | ✓ | ✕ |
 | area | String | 否 | 节点的国家英文缩写（eg:hk） | - | ✓ | ✓ |
@@ -57,7 +57,7 @@
       <td style="text-align:left">type</td>
       <td style="text-align:left">String</td>
       <td style="text-align:left">&#x5426;</td>
-      <td style="text-align:left">all / auto / media / relay / back</td>
+      <td style="text-align:left">all / auto / media / gamer / relay / back</td>
       <td style="text-align:left">
         <p>Surge Pro</p>
         <p>QuantumultX</p>
