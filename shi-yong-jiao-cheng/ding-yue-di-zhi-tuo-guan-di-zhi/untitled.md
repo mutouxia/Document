@@ -57,7 +57,7 @@
       <td style="text-align:left">type</td>
       <td style="text-align:left">String</td>
       <td style="text-align:left">&#x5426;</td>
-      <td style="text-align:left">all / auto / media / gamer / relay / back</td>
+      <td style="text-align:left">all / auto / media / relay / back</td>
       <td style="text-align:left">
         <p>Surge Pro</p>
         <p>QuantumultX</p>
