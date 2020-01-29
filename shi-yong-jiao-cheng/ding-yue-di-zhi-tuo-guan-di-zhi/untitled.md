@@ -48,6 +48,7 @@
       <td style="text-align:left">
         <p>Surge Pro</p>
         <p>QuantumultX</p>
+        <p>Clash</p>
       </td>
       <td style="text-align:left">&#x2713;</td>
       <td style="text-align:left">&#x2715;</td>
@@ -60,6 +61,7 @@
       <td style="text-align:left">
         <p>Surge Pro</p>
         <p>QuantumultX</p>
+        <p>Clash</p>
       </td>
       <td style="text-align:left">&#x2713;</td>
       <td style="text-align:left">&#x2715;</td>
@@ -72,6 +74,7 @@
       <td style="text-align:left">
         <p>Surge Pro</p>
         <p>QuantumultX</p>
+        <p>Clash</p>
       </td>
       <td style="text-align:left">&#x2713;</td>
       <td style="text-align:left">&#x2715;</td>
@@ -84,6 +87,7 @@
       <td style="text-align:left">
         <p>Surge Pro</p>
         <p>QuantumultX</p>
+        <p>Clash</p>
       </td>
       <td style="text-align:left">&#x2713;</td>
       <td style="text-align:left">&#x2715;</td>
@@ -97,6 +101,7 @@
       style="text-align:left">
         <p>Surge Pro</p>
         <p>QuantumultX</p>
+        <p>Clash</p>
         </td>
         <td style="text-align:left">&#x2713;</td>
         <td style="text-align:left">&#x2713;</td>
@@ -110,6 +115,7 @@
       style="text-align:left">
         <p>Surge Pro</p>
         <p>QuantumultX</p>
+        <p>Clash</p>
         </td>
         <td style="text-align:left">&#x2713;</td>
         <td style="text-align:left">&#x2715;</td>
@@ -123,6 +129,7 @@
       style="text-align:left">
         <p>Surge Pro</p>
         <p>QuantumultX</p>
+        <p>Clash</p>
         </td>
         <td style="text-align:left">&#x2713;</td>
         <td style="text-align:left">&#x2715;</td>
@@ -136,6 +143,7 @@
       style="text-align:left">
         <p>Surge Pro</p>
         <p>QuantumultX</p>
+        <p>Clash</p>
         </td>
         <td style="text-align:left">&#x2713;</td>
         <td style="text-align:left">&#x2715;</td>
