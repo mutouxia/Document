@@ -14,8 +14,8 @@
 | is\_mu | Int | 否 | 1（公共端口） | - | ✓ |  |
 | mitm | Int | 否 | 1（MitM 证书） | Surge Pro | ✓ | ✕ |
 | type | String | 否 | media / relay / back | - | ✓ | ✕ |
-| class | String | 否 | 1～4 | - | ✓ | ✕ |
-| noclass | String | 否 | 1～4 | - | ✓ | ✕ |
+| lv | String | 否 | 1～4 | - | ✓ | ✕ |
+| nolv | String | 否 | 1～4 | - | ✓ | ✕ |
 | area | String | 否 | 节点的国家英文缩写（eg:hk） | - | ✓ | ✓ |
 | noarea | String | 否 | 节点的国家英文缩写（eg:hk） |  |  |  |
 | isp | String | 否 | 节点的网络运营商或后缀名（空格请用"%20"代替） | - | ✓ | ✕ |
@@ -67,7 +67,7 @@
       <td style="text-align:left">&#x2715;</td>
     </tr>
     <tr>
-      <td style="text-align:left">class</td>
+      <td style="text-align:left">lv</td>
       <td style="text-align:left">String</td>
       <td style="text-align:left">&#x5426;</td>
       <td style="text-align:left">1&#xFF5E;4</td>
@@ -80,7 +80,7 @@
       <td style="text-align:left">&#x2715;</td>
     </tr>
     <tr>
-      <td style="text-align:left">noclass</td>
+      <td style="text-align:left">nolv</td>
       <td style="text-align:left">String</td>
       <td style="text-align:left">&#x5426;</td>
       <td style="text-align:left">1&#xFF5E;4</td>
