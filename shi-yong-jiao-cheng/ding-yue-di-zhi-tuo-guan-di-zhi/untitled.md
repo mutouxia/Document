@@ -156,5 +156,5 @@
 
 使用方法：将参数添加到托管/订阅地址尾部
 
-`https://dler.cloud/link/token?surge=3` `&mitm=1` `&class=3`
+`https://dler.cloud/link/token?surge=3&mitm=1&lv=3`
 
