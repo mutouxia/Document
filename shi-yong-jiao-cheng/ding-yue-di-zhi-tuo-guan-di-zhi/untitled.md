@@ -12,9 +12,9 @@
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | is\_mu | Int | 否 | 1（公共端口） | - | ✓ |  |
 | mitm | Int | 否 | 1（MitM 证书） | Surge Pro | ✓ | ✕ |
-| type | String | 否 | media / relay / back/ gamer | - | ✓ | ✕ |
-| lv | String | 否 | 1～5 | - | ✓ | ✕ |
-| nolv | String | 否 | 1～5 | - | ✓ | ✕ |
+| type | String | 否 | media / relay / back | - | ✓ | ✕ |
+| lv | String | 否 | 1～4 | - | ✓ | ✕ |
+| nolv | String | 否 | 1～4 | - | ✓ | ✕ |
 | area | String | 否 | 节点的国家英文缩写（eg:hk） | - | ✓ | ✓ |
 | noarea | String | 否 | 节点的国家英文缩写（eg:hk） |  |  |  |
 | isp | String | 否 | 节点的网络运营商或后缀名（空格请用"%20"代替） | - | ✓ | ✕ |
@@ -56,7 +56,7 @@
       <td style="text-align:left">type</td>
       <td style="text-align:left">String</td>
       <td style="text-align:left">&#x5426;</td>
-      <td style="text-align:left">all / auto / media / relay / back/ gamer</td>
+      <td style="text-align:left">all / auto / media / relay / back</td>
       <td style="text-align:left">
         <p>Surge Pro</p>
         <p>QuantumultX</p>
@@ -69,7 +69,7 @@
       <td style="text-align:left">lv</td>
       <td style="text-align:left">String</td>
       <td style="text-align:left">&#x5426;</td>
-      <td style="text-align:left">1&#xFF5E;5</td>
+      <td style="text-align:left">1&#xFF5E;4</td>
       <td style="text-align:left">
         <p>Surge Pro</p>
         <p>QuantumultX</p>
@@ -82,7 +82,7 @@
       <td style="text-align:left">nolv</td>
       <td style="text-align:left">String</td>
       <td style="text-align:left">&#x5426;</td>
-      <td style="text-align:left">1&#xFF5E;5</td>
+      <td style="text-align:left">1&#xFF5E;4</td>
       <td style="text-align:left">
         <p>Surge Pro</p>
         <p>QuantumultX</p>
@@ -156,5 +156,5 @@
 
 使用方法：将参数添加到托管/订阅地址尾部
 
-`https://dler.cloud/link/token?surge=3&mitm=1&lv=3`
+`https://dler.cloud/link/token?surge=3` `&mitm=1` `&class=3`
 

@@ -15,6 +15,7 @@
     * [Surfboard](shi-yong-jiao-cheng/android/surfboard.md)
   * [iOS](shi-yong-jiao-cheng/ios/README.md)
     * [Quantumult](shi-yong-jiao-cheng/ios/quantumult.md)
+    * [QuantumultX](shi-yong-jiao-cheng/ios/quantumultx.md)
     * [Surge](shi-yong-jiao-cheng/ios/tuo-guan-mo-shi.md)
     * [Shadowrocket](shi-yong-jiao-cheng/ios/ding-yue-mo-shi.md)
   * [路由器](shi-yong-jiao-cheng/lu-you-qi/README.md)
