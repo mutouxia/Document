@@ -5,7 +5,7 @@
   * [Windows](shi-yong-jiao-cheng/windows/README.md)
     * [Clash for Windows](shi-yong-jiao-cheng/windows/clash.md)
     * [ShadowsocksD](shi-yong-jiao-cheng/windows/shadowsocksr.md)
-    * [Netcht（游戏/特殊）](shi-yong-jiao-cheng/windows/netcht-you-xi-te-shu.md)
+    * [Netch（游戏/特殊）](shi-yong-jiao-cheng/windows/netcht-you-xi-te-shu.md)
     * [SS-Tap（游戏/特殊）](shi-yong-jiao-cheng/windows/sstap-you-xi-te-shu.md)
   * [macOS](shi-yong-jiao-cheng/macos/README.md)
     * [ClashX](shi-yong-jiao-cheng/macos/clashx.md)
