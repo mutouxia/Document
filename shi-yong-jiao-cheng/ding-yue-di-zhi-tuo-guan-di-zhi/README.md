@@ -19,7 +19,7 @@ Shadowsocks/ShadowsocksR/ShadowsocksD 使用「订阅模式」，客户端在每
 
 ###   SS + SSR\(IPLC\)
 
-![](../../.gitbook/assets/1.jpg)
+![](../../.gitbook/assets/1%20%281%29.jpg)
 
 ![](../../.gitbook/assets/12.jpg)
 
