@@ -13,8 +13,8 @@
 | is\_mu | Int | 否 | 1（公共端口） | - | ✓ |  |
 | mitm | Int | 否 | 1（MitM 证书） | Surge Pro | ✓ | ✕ |
 | type | String | 否 | media / relay / back/ gamer | - | ✓ | ✕ |
-| lv | String | 否 | 1～5 | - | ✓ | ✕ |
-| nolv | String | 否 | 1～5 | - | ✓ | ✕ |
+| lv | Int | 否 | 1～5 | - | ✓ | ✕ |
+| nolv | Int | 否 | 1～5 | - | ✓ | ✕ |
 | area | String | 否 | 节点的国家英文缩写（eg:hk） | - | ✓ | ✓ |
 | noarea | String | 否 | 节点的国家英文缩写（eg:hk） |  |  |  |
 | isp | String | 否 | 节点的网络运营商或后缀名（空格请用"%20"代替） | - | ✓ | ✕ |
@@ -41,7 +41,7 @@
   <tbody>
     <tr>
       <td style="text-align:left">list</td>
-      <td style="text-align:left">Int</td>
+      <td style="text-align:left">String</td>
       <td style="text-align:left">&#x662F;</td>
       <td style="text-align:left">1</td>
       <td style="text-align:left">
@@ -67,7 +67,7 @@
     </tr>
     <tr>
       <td style="text-align:left">lv</td>
-      <td style="text-align:left">String</td>
+      <td style="text-align:left">Int</td>
       <td style="text-align:left">&#x5426;</td>
       <td style="text-align:left">1&#xFF5E;5</td>
       <td style="text-align:left">
@@ -80,7 +80,7 @@
     </tr>
     <tr>
       <td style="text-align:left">nolv</td>
-      <td style="text-align:left">String</td>
+      <td style="text-align:left">Int</td>
       <td style="text-align:left">&#x5426;</td>
       <td style="text-align:left">1&#xFF5E;5</td>
       <td style="text-align:left">
@@ -146,6 +146,18 @@
         </td>
         <td style="text-align:left">&#x2713;</td>
         <td style="text-align:left">&#x2715;</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">auto</td>
+      <td style="text-align:left">Int</td>
+      <td style="text-align:left">&#x5426;</td>
+      <td style="text-align:left">1</td>
+      <td style="text-align:left">
+        <p>Surge Pro</p>
+        <p>QuantumultX</p>
+      </td>
+      <td style="text-align:left">&#x2713;</td>
+      <td style="text-align:left">&#x2715;</td>
     </tr>
   </tbody>
 </table>多重条件：多个可选项参数搭配使用
