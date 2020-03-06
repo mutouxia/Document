@@ -24,6 +24,7 @@
 | custom | URL | 否 | 在当前托管规则前面加入自定义规则 | - | ✓ | ✕ |
 | dns | Int | 否 | 为当前规则加入自定义DNS | Clash | ✓ | ✕ |
 | tap | Int | 否 | TAP模式 | Clash | ✓ | ✕ |
+| auto | Int | 否 | 1（仅拉取自动调度节点） |  |  |  |
 
 #### List
 
@@ -152,13 +153,14 @@
       <td style="text-align:left">auto</td>
       <td style="text-align:left">Int</td>
       <td style="text-align:left">&#x5426;</td>
-      <td style="text-align:left">1</td>
-      <td style="text-align:left">
+      <td style="text-align:left">1&#xFF08;&#x4EC5;&#x62C9;&#x53D6;&#x81EA;&#x52A8;&#x8C03;&#x5EA6;&#x8282;&#x70B9;&#xFF09;</td>
+      <td
+      style="text-align:left">
         <p>Surge Pro</p>
         <p>QuantumultX</p>
-      </td>
-      <td style="text-align:left">&#x2713;</td>
-      <td style="text-align:left">&#x2715;</td>
+        </td>
+        <td style="text-align:left">&#x2713;</td>
+        <td style="text-align:left">&#x2715;</td>
     </tr>
   </tbody>
 </table>多重条件：多个可选项参数搭配使用
