@@ -5,7 +5,7 @@
 | 参数 | 类型 | 必须 | 变量或描述 | 兼容 | 多重条件 | 复用 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | is\_mu | Int | 否 | 1（公共端口） | - | ✓ | ✕ |
-| mu | String | 是 | ss / ssr / ss\_auto / ssr\_auto | - | ✕ | ✕ |
+| mu | String | 是 | ss / ssr | - | ✕ | ✕ |
 
 #### 托管
 
@@ -24,7 +24,6 @@
 | custom | URL | 否 | 在当前托管规则前面加入自定义规则 | - | ✓ | ✕ |
 | dns | Int | 否 | 为当前规则加入自定义DNS | Clash | ✓ | ✕ |
 | tap | Int | 否 | TAP模式 | Clash | ✓ | ✕ |
-| auto | Int | 否 | 1（仅拉取自动调度节点） |  |  |  |
 
 #### List
 
@@ -145,19 +144,6 @@
         <p>Surge Pro</p>
         <p>QuantumultX</p>
         <p>Clash</p>
-        </td>
-        <td style="text-align:left">&#x2713;</td>
-        <td style="text-align:left">&#x2715;</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">auto</td>
-      <td style="text-align:left">Int</td>
-      <td style="text-align:left">&#x5426;</td>
-      <td style="text-align:left">1&#xFF08;&#x4EC5;&#x62C9;&#x53D6;&#x81EA;&#x52A8;&#x8C03;&#x5EA6;&#x8282;&#x70B9;&#xFF09;</td>
-      <td
-      style="text-align:left">
-        <p>Surge Pro</p>
-        <p>QuantumultX</p>
         </td>
         <td style="text-align:left">&#x2713;</td>
         <td style="text-align:left">&#x2715;</td>
