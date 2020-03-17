@@ -151,11 +151,11 @@
   </tbody>
 </table>多重条件：多个可选项参数搭配使用
 
-复用：某个可选项参数可以使用多个变量值（`&area=hk+jp`）
+复用：某些可选项参数可以使用多个变量值（`&area=hk+jp`）
 
 
 
 使用方法：将参数添加到托管/订阅地址尾部
 
-`https://dler.cloud/link/token?surge=3&mitm=1&lv=3`
+`https://dler.cloud/subscrile/token?surge=3&mitm=1&lv=3`
 
