@@ -148,6 +148,15 @@
         <td style="text-align:left">&#x2713;</td>
         <td style="text-align:left">&#x2715;</td>
     </tr>
+    <tr>
+      <td style="text-align:left">emoji</td>
+      <td style="text-align:left">Int</td>
+      <td style="text-align:left">&#x5426;</td>
+      <td style="text-align:left">0&#xFF08;&#x9ED8;&#x8BA4;&#x5F00;&#x542F;&#xFF09;</td>
+      <td style="text-align:left">-</td>
+      <td style="text-align:left">&#x2713;</td>
+      <td style="text-align:left">&#x2715;</td>
+    </tr>
   </tbody>
 </table>#### List
 
@@ -248,7 +257,7 @@
       <td style="text-align:left">isp</td>
       <td style="text-align:left">String</td>
       <td style="text-align:left">&#x5426;</td>
-      <td style="text-align:left">&#x8282;&#x70B9;&#x7684;&#x7F51;&#x7EDC;&#x8FD0;&#x8425;&#x5546;&#x6216;&#x540E;&#x7F00;&#x540D;&#xFF08;&#x7A7A;&#x683C;&#x8BF7;&#x7528;&quot;%20&quot;&#x4EE3;&#x66FF;&#xFF09;</td>
+      <td style="text-align:left">&#x8282;&#x70B9;&#x5173;&#x952E;&#x8BCD;&#x5339;&#x914D;&#xFF08;&#x53EF;&#x4F7F;&#x7528;&quot;|&quot;&#x7B5B;&#x9009;&#x591A;&#x4E2A;&#x8282;&#x70B9;&#xFF09;</td>
       <td
       style="text-align:left">
         <p>Surge Pro</p>
@@ -262,7 +271,7 @@
       <td style="text-align:left">noisp</td>
       <td style="text-align:left">String</td>
       <td style="text-align:left">&#x5426;</td>
-      <td style="text-align:left">&#x8282;&#x70B9;&#x7684;&#x7F51;&#x7EDC;&#x8FD0;&#x8425;&#x5546;&#x6216;&#x540E;&#x7F00;&#x540D;&#xFF08;&#x7A7A;&#x683C;&#x8BF7;&#x7528;&quot;%20&quot;&#x4EE3;&#x66FF;&#xFF09;</td>
+      <td style="text-align:left">&#x8282;&#x70B9;&#x5173;&#x952E;&#x8BCD;&#x5339;&#x914D;&#xFF08;&#x53EF;&#x4F7F;&#x7528;&quot;|&quot;&#x7B5B;&#x9009;&#x591A;&#x4E2A;&#x8282;&#x70B9;&#xFF09;</td>
       <td
       style="text-align:left">
         <p>Surge Pro</p>
@@ -271,6 +280,15 @@
         </td>
         <td style="text-align:left">&#x2713;</td>
         <td style="text-align:left">&#x2715;</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">emoji</td>
+      <td style="text-align:left">Int</td>
+      <td style="text-align:left">&#x5426;</td>
+      <td style="text-align:left">0&#xFF08;&#x9ED8;&#x8BA4;&#x5F00;&#x542F;&#xFF09;</td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
     </tr>
   </tbody>
 </table>多重条件：多个可选项参数搭配使用
