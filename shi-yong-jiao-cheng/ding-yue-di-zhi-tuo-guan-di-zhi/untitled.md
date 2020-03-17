@@ -23,7 +23,7 @@
 | custom | URL | 否 | 在当前托管规则前面加入自定义规则 | - | ✓ | ✕ |
 | dns | Int | 否 | 为当前规则加入自定义DNS | Clash | ✓ | ✕ |
 | tap | Int | 否 | TAP模式 | Clash | ✓ | ✕ |
-| ssid | Int | 否 | 在使用特定的Wi-Fi 时关闭Surge | Surge | ✓ | ✕ |
+| ssid | String | 否 | 在使用特定的Wi-Fi 时关闭Surge | Surge | ✓ | ✕ |
 
 #### List
 
