@@ -11,9 +11,8 @@
 
 | 参数 | 类型 | 必须 | 变量或描述 | 兼容 | 多重条件 | 复用 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| is\_mu | Int | 否 | 1（公共端口） | - | ✓ |  |
 | mitm | Int | 否 | 1（MitM 证书） | Surge Pro | ✓ | ✕ |
-| type | String | 否 | media / relay / back/ gamer | - | ✓ | ✕ |
+| type | String | 否 | media / relay / back / gamer | - | ✓ | ✕ |
 | lv | Int | 否 | 1～5 | - | ✓ | ✕ |
 | nolv | Int | 否 | 1～5 | - | ✓ | ✕ |
 | area | String | 否 | 节点的国家英文缩写（eg:hk） | - | ✓ | ✓ |
@@ -24,6 +23,7 @@
 | custom | URL | 否 | 在当前托管规则前面加入自定义规则 | - | ✓ | ✕ |
 | dns | Int | 否 | 为当前规则加入自定义DNS | Clash | ✓ | ✕ |
 | tap | Int | 否 | TAP模式 | Clash | ✓ | ✕ |
+| ssid | Int | 否 | 在使用特定的Wi-Fi 时关闭Surge | Surge | ✓ | ✕ |
 
 #### List
 
@@ -57,7 +57,7 @@
       <td style="text-align:left">type</td>
       <td style="text-align:left">String</td>
       <td style="text-align:left">&#x5426;</td>
-      <td style="text-align:left">all / auto / media / relay / back/ gamer</td>
+      <td style="text-align:left">all / auto / media / relay / back / gamer</td>
       <td style="text-align:left">
         <p>Surge Pro</p>
         <p>QuantumultX</p>
