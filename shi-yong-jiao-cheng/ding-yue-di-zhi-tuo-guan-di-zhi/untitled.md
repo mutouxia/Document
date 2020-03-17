@@ -81,17 +81,7 @@
         <td style="text-align:left">&#x2713;</td>
     </tr>
     <tr>
-      <td style="text-align:left">isp</td>
-      <td style="text-align:left">String</td>
-      <td style="text-align:left">&#x5426;</td>
-      <td style="text-align:left">&#x8282;&#x70B9;&#x5173;&#x952E;&#x8BCD;&#x5339;&#x914D;&#xFF08;&#x53EF;&#x4F7F;&#x7528;&quot;|&quot;&#x7B5B;&#x9009;&#x591A;&#x4E2A;&#x8282;&#x70B9;&#xFF09;</td>
-      <td
-      style="text-align:left">-</td>
-        <td style="text-align:left">&#x2713;</td>
-        <td style="text-align:left">&#x2715;</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">noisp</td>
+      <td style="text-align:left">match</td>
       <td style="text-align:left">String</td>
       <td style="text-align:left">&#x5426;</td>
       <td style="text-align:left">&#x8282;&#x70B9;&#x5173;&#x952E;&#x8BCD;&#x5339;&#x914D;&#xFF08;&#x53EF;&#x4F7F;&#x7528;&quot;|&quot;&#x7B5B;&#x9009;&#x591A;&#x4E2A;&#x8282;&#x70B9;&#xFF09;</td>
@@ -254,21 +244,7 @@
         <td style="text-align:left">&#x2713;</td>
     </tr>
     <tr>
-      <td style="text-align:left">isp</td>
-      <td style="text-align:left">String</td>
-      <td style="text-align:left">&#x5426;</td>
-      <td style="text-align:left">&#x8282;&#x70B9;&#x5173;&#x952E;&#x8BCD;&#x5339;&#x914D;&#xFF08;&#x53EF;&#x4F7F;&#x7528;&quot;|&quot;&#x7B5B;&#x9009;&#x591A;&#x4E2A;&#x8282;&#x70B9;&#xFF09;</td>
-      <td
-      style="text-align:left">
-        <p>Surge Pro</p>
-        <p>QuantumultX</p>
-        <p>Clash</p>
-        </td>
-        <td style="text-align:left">&#x2713;</td>
-        <td style="text-align:left">&#x2715;</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">noisp</td>
+      <td style="text-align:left">match</td>
       <td style="text-align:left">String</td>
       <td style="text-align:left">&#x5426;</td>
       <td style="text-align:left">&#x8282;&#x70B9;&#x5173;&#x952E;&#x8BCD;&#x5339;&#x914D;&#xFF08;&#x53EF;&#x4F7F;&#x7528;&quot;|&quot;&#x7B5B;&#x9009;&#x591A;&#x4E2A;&#x8282;&#x70B9;&#xFF09;</td>
