@@ -22,7 +22,7 @@
     * [Merlin](shi-yong-jiao-cheng/lu-you-qi/merlin.md)
   * [订阅地址 & 托管地址](shi-yong-jiao-cheng/ding-yue-di-zhi-tuo-guan-di-zhi/README.md)
     * [可选项参数](shi-yong-jiao-cheng/ding-yue-di-zhi-tuo-guan-di-zhi/untitled.md)
-* [注意事项](zhu-yi-shi-xiang/README.md)
+* [常见问题](zhu-yi-shi-xiang/README.md)
   * [Netflix 登陆或播放遇到问题（Netflix Site Error）](zhu-yi-shi-xiang/untitled.md)
   * [部分网站无法正常登入（正确安装证书）](zhu-yi-shi-xiang/bu-fen-wang-zhan-wu-fa-zheng-chang-deng-ru-zheng-que-an-zhuang-zheng-shu.md)
   * [节点导入后无法正常使用](zhu-yi-shi-xiang/jie-dian-dao-ru-hou-wu-fa-zheng-chang-shi-yong.md)
