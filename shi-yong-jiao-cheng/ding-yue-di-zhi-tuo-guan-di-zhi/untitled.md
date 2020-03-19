@@ -91,10 +91,20 @@
         <td style="text-align:left">&#x2715;</td>
     </tr>
     <tr>
-      <td style="text-align:left">source</td>
+      <td style="text-align:left">nomatch</td>
+      <td style="text-align:left">String</td>
+      <td style="text-align:left">&#x5426;</td>
+      <td style="text-align:left">&#x8282;&#x70B9;&#x5173;&#x952E;&#x8BCD;&#x5339;&#x914D;&#xFF08;&#x53EF;&#x4F7F;&#x7528;&quot;|&quot;&#x7B5B;&#x9009;&#x591A;&#x4E2A;&#x8282;&#x70B9;&#xFF09;</td>
+      <td
+      style="text-align:left">-</td>
+        <td style="text-align:left">&#x2713;</td>
+        <td style="text-align:left">&#x2715;</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">head</td>
       <td style="text-align:left">URL</td>
       <td style="text-align:left">&#x5426;</td>
-      <td style="text-align:left">&#x81EA;&#x5B9A;&#x4E49;&#x89C4;&#x5219;</td>
+      <td style="text-align:left">&#x81EA;&#x5B9A;&#x4E49;&#x89C4;&#x5219;&#x5934;&#x90E8;</td>
       <td style="text-align:left">-</td>
       <td style="text-align:left">&#x2713;</td>
       <td style="text-align:left">&#x2715;</td>
@@ -108,6 +118,15 @@
       style="text-align:left">-</td>
         <td style="text-align:left">&#x2713;</td>
         <td style="text-align:left">&#x2715;</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">source</td>
+      <td style="text-align:left">URL</td>
+      <td style="text-align:left">&#x5426;</td>
+      <td style="text-align:left">&#x81EA;&#x5B9A;&#x4E49;&#x89C4;&#x5219;</td>
+      <td style="text-align:left">-</td>
+      <td style="text-align:left">&#x2713;</td>
+      <td style="text-align:left">&#x2715;</td>
     </tr>
     <tr>
       <td style="text-align:left">dns</td>
@@ -132,11 +151,11 @@
       <td style="text-align:left">ssid</td>
       <td style="text-align:left">String</td>
       <td style="text-align:left">&#x5426;</td>
-      <td style="text-align:left">&#x5728;&#x4F7F;&#x7528;&#x7279;&#x5B9A;&#x7684;Wi-Fi &#x65F6;&#x5173;&#x95ED;Surge</td>
-      <td
-      style="text-align:left">Surge</td>
-        <td style="text-align:left">&#x2713;</td>
-        <td style="text-align:left">&#x2715;</td>
+      <td style="text-align:left">&#x5728;&#x4F7F;&#x7528;&#x7279;&#x5B9A;&#x7684;Wi-Fi &#x65F6;&#x5C06;Surge
+        &#x6682;&#x65F6;&#x6302;&#x8D77;</td>
+      <td style="text-align:left">Surge</td>
+      <td style="text-align:left">&#x2713;</td>
+      <td style="text-align:left">&#x2715;</td>
     </tr>
     <tr>
       <td style="text-align:left">emoji</td>
