@@ -37,7 +37,7 @@
       <td style="text-align:left">type</td>
       <td style="text-align:left">String</td>
       <td style="text-align:left">&#x5426;</td>
-      <td style="text-align:left">media / relay / back / gamer</td>
+      <td style="text-align:left">media / relay / back / gamer / love</td>
       <td style="text-align:left">-</td>
       <td style="text-align:left">&#x2713;</td>
       <td style="text-align:left">&#x2715;</td>
