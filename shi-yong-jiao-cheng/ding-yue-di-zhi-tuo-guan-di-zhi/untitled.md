@@ -18,6 +18,7 @@
       <th style="text-align:left">&#x517C;&#x5BB9;</th>
       <th style="text-align:left">&#x591A;&#x91CD;&#x6761;&#x4EF6;</th>
       <th style="text-align:left">&#x590D;&#x7528;</th>
+      <th style="text-align:left">&#x7B80;&#x5355;&#x6B63;&#x5219;</th>
     </tr>
   </thead>
   <tbody>
@@ -32,6 +33,7 @@
       </td>
       <td style="text-align:left">&#x2713;</td>
       <td style="text-align:left">&#x2715;</td>
+      <td style="text-align:left">&#x2715;</td>
     </tr>
     <tr>
       <td style="text-align:left">type</td>
@@ -40,6 +42,7 @@
       <td style="text-align:left">media / relay / back / gamer / love</td>
       <td style="text-align:left">-</td>
       <td style="text-align:left">&#x2713;</td>
+      <td style="text-align:left">&#x2715;</td>
       <td style="text-align:left">&#x2715;</td>
     </tr>
     <tr>
@@ -50,6 +53,7 @@
       <td style="text-align:left">-</td>
       <td style="text-align:left">&#x2713;</td>
       <td style="text-align:left">&#x2715;</td>
+      <td style="text-align:left">&#x2715;</td>
     </tr>
     <tr>
       <td style="text-align:left">nolv</td>
@@ -58,6 +62,7 @@
       <td style="text-align:left">1&#xFF5E;5</td>
       <td style="text-align:left">-</td>
       <td style="text-align:left">&#x2713;</td>
+      <td style="text-align:left">&#x2715;</td>
       <td style="text-align:left">&#x2715;</td>
     </tr>
     <tr>
@@ -69,6 +74,7 @@
       style="text-align:left">-</td>
         <td style="text-align:left">&#x2713;</td>
         <td style="text-align:left">&#x2713;</td>
+        <td style="text-align:left">&#x2715;</td>
     </tr>
     <tr>
       <td style="text-align:left">noarea</td>
@@ -79,6 +85,7 @@
       style="text-align:left">-</td>
         <td style="text-align:left">&#x2713;</td>
         <td style="text-align:left">&#x2713;</td>
+        <td style="text-align:left">&#x2715;</td>
     </tr>
     <tr>
       <td style="text-align:left">match</td>
@@ -89,6 +96,7 @@
       style="text-align:left">-</td>
         <td style="text-align:left">&#x2713;</td>
         <td style="text-align:left">&#x2715;</td>
+        <td style="text-align:left">&#x2713;</td>
     </tr>
     <tr>
       <td style="text-align:left">nomatch</td>
@@ -99,9 +107,10 @@
       style="text-align:left">-</td>
         <td style="text-align:left">&#x2713;</td>
         <td style="text-align:left">&#x2715;</td>
+        <td style="text-align:left">&#x2713;</td>
     </tr>
     <tr>
-      <td style="text-align:left">head</td>
+      <td style="text-align:left">head_custom</td>
       <td style="text-align:left">URL</td>
       <td style="text-align:left">&#x5426;</td>
       <td style="text-align:left">&#x81EA;&#x5B9A;&#x4E49;&#x6258;&#x7BA1;&#x89C4;&#x5219;&#x5934;&#x90E8;</td>
@@ -109,9 +118,10 @@
       style="text-align:left">-</td>
         <td style="text-align:left">&#x2713;</td>
         <td style="text-align:left">&#x2715;</td>
+        <td style="text-align:left">&#x2715;</td>
     </tr>
     <tr>
-      <td style="text-align:left">custom</td>
+      <td style="text-align:left">rule_custom</td>
       <td style="text-align:left">URL</td>
       <td style="text-align:left">&#x5426;</td>
       <td style="text-align:left">&#x5728;&#x5F53;&#x524D;&#x6258;&#x7BA1;&#x89C4;&#x5219;&#x524D;&#x9762;&#x52A0;&#x5165;&#x81EA;&#x5B9A;&#x4E49;&#x89C4;&#x5219;</td>
@@ -119,14 +129,16 @@
       style="text-align:left">-</td>
         <td style="text-align:left">&#x2713;</td>
         <td style="text-align:left">&#x2715;</td>
+        <td style="text-align:left">&#x2715;</td>
     </tr>
     <tr>
-      <td style="text-align:left">source</td>
+      <td style="text-align:left">rule_source</td>
       <td style="text-align:left">URL</td>
       <td style="text-align:left">&#x5426;</td>
       <td style="text-align:left">&#x81EA;&#x5B9A;&#x4E49;&#x6258;&#x7BA1;&#x89C4;&#x5219;</td>
       <td style="text-align:left">-</td>
       <td style="text-align:left">&#x2713;</td>
+      <td style="text-align:left">&#x2715;</td>
       <td style="text-align:left">&#x2715;</td>
     </tr>
     <tr>
@@ -138,6 +150,7 @@
       style="text-align:left">Clash</td>
         <td style="text-align:left">&#x2713;</td>
         <td style="text-align:left">&#x2715;</td>
+        <td style="text-align:left">&#x2715;</td>
     </tr>
     <tr>
       <td style="text-align:left">tap</td>
@@ -146,6 +159,7 @@
       <td style="text-align:left">TAP&#x6A21;&#x5F0F;</td>
       <td style="text-align:left">Clash</td>
       <td style="text-align:left">&#x2713;</td>
+      <td style="text-align:left">&#x2715;</td>
       <td style="text-align:left">&#x2715;</td>
     </tr>
     <tr>
@@ -157,6 +171,7 @@
       <td style="text-align:left">Surge</td>
       <td style="text-align:left">&#x2713;</td>
       <td style="text-align:left">&#x2715;</td>
+      <td style="text-align:left">&#x2715;</td>
     </tr>
     <tr>
       <td style="text-align:left">emoji</td>
@@ -165,6 +180,7 @@
       <td style="text-align:left">0&#xFF08;&#x9ED8;&#x8BA4;&#x5F00;&#x542F;&#xFF09;</td>
       <td style="text-align:left">-</td>
       <td style="text-align:left">&#x2713;</td>
+      <td style="text-align:left">&#x2715;</td>
       <td style="text-align:left">&#x2715;</td>
     </tr>
   </tbody>
@@ -180,6 +196,7 @@
       <th style="text-align:left">&#x517C;&#x5BB9;</th>
       <th style="text-align:left">&#x591A;&#x91CD;&#x6761;&#x4EF6;</th>
       <th style="text-align:left">&#x590D;&#x7528;</th>
+      <th style="text-align:left">&#x7B80;&#x5355;&#x6B63;&#x5219;</th>
     </tr>
   </thead>
   <tbody>
@@ -195,6 +212,7 @@
       </td>
       <td style="text-align:left">&#x2713;</td>
       <td style="text-align:left">&#x2715;</td>
+      <td style="text-align:left">&#x2715;</td>
     </tr>
     <tr>
       <td style="text-align:left">type</td>
@@ -207,6 +225,7 @@
         <p>Clash</p>
       </td>
       <td style="text-align:left">&#x2713;</td>
+      <td style="text-align:left">&#x2715;</td>
       <td style="text-align:left">&#x2715;</td>
     </tr>
     <tr>
@@ -221,6 +240,7 @@
       </td>
       <td style="text-align:left">&#x2713;</td>
       <td style="text-align:left">&#x2715;</td>
+      <td style="text-align:left">&#x2715;</td>
     </tr>
     <tr>
       <td style="text-align:left">nolv</td>
@@ -233,6 +253,7 @@
         <p>Clash</p>
       </td>
       <td style="text-align:left">&#x2713;</td>
+      <td style="text-align:left">&#x2715;</td>
       <td style="text-align:left">&#x2715;</td>
     </tr>
     <tr>
@@ -248,6 +269,7 @@
         </td>
         <td style="text-align:left">&#x2713;</td>
         <td style="text-align:left">&#x2713;</td>
+        <td style="text-align:left">&#x2715;</td>
     </tr>
     <tr>
       <td style="text-align:left">noarea</td>
@@ -262,6 +284,7 @@
         </td>
         <td style="text-align:left">&#x2713;</td>
         <td style="text-align:left">&#x2713;</td>
+        <td style="text-align:left">&#x2715;</td>
     </tr>
     <tr>
       <td style="text-align:left">match</td>
@@ -276,24 +299,47 @@
         </td>
         <td style="text-align:left">&#x2713;</td>
         <td style="text-align:left">&#x2715;</td>
+        <td style="text-align:left">&#x2713;</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">nomatch</td>
+      <td style="text-align:left">String</td>
+      <td style="text-align:left">&#x5426;</td>
+      <td style="text-align:left">&#x8282;&#x70B9;&#x5173;&#x952E;&#x8BCD;&#x5339;&#x914D;&#xFF08;&#x53EF;&#x4F7F;&#x7528;&quot;|&quot;&#x7B5B;&#x9009;&#x591A;&#x4E2A;&#x8282;&#x70B9;&#xFF09;</td>
+      <td
+      style="text-align:left">
+        <p>Surge Pro</p>
+        <p>QuantumultX</p>
+        <p>Clash</p>
+        </td>
+        <td style="text-align:left">&#x2713;</td>
+        <td style="text-align:left">&#x2715;</td>
+        <td style="text-align:left">&#x2713;</td>
     </tr>
     <tr>
       <td style="text-align:left">emoji</td>
       <td style="text-align:left">Int</td>
       <td style="text-align:left">&#x5426;</td>
       <td style="text-align:left">0&#xFF08;&#x9ED8;&#x8BA4;&#x5F00;&#x542F;&#xFF09;</td>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">
+        <p>Surge Pro</p>
+        <p>QuantumultX</p>
+        <p>Clash</p>
+      </td>
+      <td style="text-align:left">&#x2713;</td>
+      <td style="text-align:left">&#x2715;</td>
+      <td style="text-align:left">&#x2715;</td>
     </tr>
   </tbody>
 </table>多重条件：多个可选项参数搭配使用
 
 复用：某些可选项参数可以使用多个变量值（`&area=hk+jp`）
 
+简单正则：某些可选项参数可以使用简单正则（`&match=香港|澳门|台湾`）
 
 
-使用方法：将参数添加到托管/订阅地址尾部
+
+使用方法：将可选项参数添加到托管/订阅地址尾部
 
 `https://dler.cloud/subscrile/token?surge=3&mitm=1&lv=3`
 
