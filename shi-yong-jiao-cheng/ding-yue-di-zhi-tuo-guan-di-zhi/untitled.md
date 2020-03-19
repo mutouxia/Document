@@ -104,10 +104,11 @@
       <td style="text-align:left">head</td>
       <td style="text-align:left">URL</td>
       <td style="text-align:left">&#x5426;</td>
-      <td style="text-align:left">&#x81EA;&#x5B9A;&#x4E49;&#x89C4;&#x5219;&#x5934;&#x90E8;</td>
-      <td style="text-align:left">-</td>
-      <td style="text-align:left">&#x2713;</td>
-      <td style="text-align:left">&#x2715;</td>
+      <td style="text-align:left">&#x81EA;&#x5B9A;&#x4E49;&#x6258;&#x7BA1;&#x89C4;&#x5219;&#x5934;&#x90E8;</td>
+      <td
+      style="text-align:left">-</td>
+        <td style="text-align:left">&#x2713;</td>
+        <td style="text-align:left">&#x2715;</td>
     </tr>
     <tr>
       <td style="text-align:left">custom</td>
@@ -123,7 +124,7 @@
       <td style="text-align:left">source</td>
       <td style="text-align:left">URL</td>
       <td style="text-align:left">&#x5426;</td>
-      <td style="text-align:left">&#x81EA;&#x5B9A;&#x4E49;&#x89C4;&#x5219;</td>
+      <td style="text-align:left">&#x81EA;&#x5B9A;&#x4E49;&#x6258;&#x7BA1;&#x89C4;&#x5219;</td>
       <td style="text-align:left">-</td>
       <td style="text-align:left">&#x2713;</td>
       <td style="text-align:left">&#x2715;</td>
