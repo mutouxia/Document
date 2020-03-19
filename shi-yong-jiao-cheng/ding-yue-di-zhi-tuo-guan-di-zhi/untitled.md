@@ -110,7 +110,7 @@
         <td style="text-align:left">&#x2713;</td>
     </tr>
     <tr>
-      <td style="text-align:left">head_custom</td>
+      <td style="text-align:left">head</td>
       <td style="text-align:left">URL</td>
       <td style="text-align:left">&#x5426;</td>
       <td style="text-align:left">&#x81EA;&#x5B9A;&#x4E49;&#x6258;&#x7BA1;&#x89C4;&#x5219;&#x5934;&#x90E8;</td>
@@ -121,7 +121,7 @@
         <td style="text-align:left">&#x2715;</td>
     </tr>
     <tr>
-      <td style="text-align:left">rule_custom</td>
+      <td style="text-align:left">custom</td>
       <td style="text-align:left">URL</td>
       <td style="text-align:left">&#x5426;</td>
       <td style="text-align:left">&#x5728;&#x5F53;&#x524D;&#x6258;&#x7BA1;&#x89C4;&#x5219;&#x524D;&#x9762;&#x52A0;&#x5165;&#x81EA;&#x5B9A;&#x4E49;&#x89C4;&#x5219;</td>
@@ -132,7 +132,7 @@
         <td style="text-align:left">&#x2715;</td>
     </tr>
     <tr>
-      <td style="text-align:left">rule_source</td>
+      <td style="text-align:left">source</td>
       <td style="text-align:left">URL</td>
       <td style="text-align:left">&#x5426;</td>
       <td style="text-align:left">&#x81EA;&#x5B9A;&#x4E49;&#x6258;&#x7BA1;&#x89C4;&#x5219;</td>
