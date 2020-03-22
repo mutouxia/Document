@@ -4,7 +4,7 @@
 
 | 参数 | 类型 | 必须 | 变量或描述 | 兼容 | 多重条件 | 复用 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| mu | String | 是 | ss / ssr / gamer | - | ✕ | ✕ |
+| mu | String | 是 | ss / ss\_public / ssr / gamer | - | ✕ | ✕ |
 
 #### 托管
 
@@ -22,6 +22,16 @@
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td style="text-align:left">public</td>
+      <td style="text-align:left">Int</td>
+      <td style="text-align:left">&#x5426;</td>
+      <td style="text-align:left">1&#xFF08;&#x516C;&#x5171;&#x7AEF;&#x53E3;&#xFF09;</td>
+      <td style="text-align:left">-</td>
+      <td style="text-align:left">&#x2713;</td>
+      <td style="text-align:left">&#x2715;</td>
+      <td style="text-align:left">&#x2715;</td>
+    </tr>
     <tr>
       <td style="text-align:left">mitm</td>
       <td style="text-align:left">Int</td>
@@ -205,6 +215,20 @@
       <td style="text-align:left">String</td>
       <td style="text-align:left">&#x662F;</td>
       <td style="text-align:left">1</td>
+      <td style="text-align:left">
+        <p>Surge Pro</p>
+        <p>QuantumultX</p>
+        <p>Clash</p>
+      </td>
+      <td style="text-align:left">&#x2713;</td>
+      <td style="text-align:left">&#x2715;</td>
+      <td style="text-align:left">&#x2715;</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">public</td>
+      <td style="text-align:left">Int</td>
+      <td style="text-align:left">&#x5426;</td>
+      <td style="text-align:left">1&#xFF08;&#x516C;&#x5171;&#x7AEF;&#x53E3;&#xFF09;</td>
       <td style="text-align:left">
         <p>Surge Pro</p>
         <p>QuantumultX</p>
