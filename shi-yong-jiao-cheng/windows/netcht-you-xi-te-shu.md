@@ -1,10 +1,13 @@
 # Netch（游戏/特殊）
 
-一、软件中心下载软件后解压打开，随后去网站个人中心复制链接
+
+
+* `系统要求：Windows 7 及以上`
+* `设备要求：Windows PC / Tablet`
 
 ![](../../.gitbook/assets/1%20%283%29.jpg)
 
-二、打开Netch，导入订阅并更新
+在用户中心的[Advanced](https://dlercloud.com/user#all_advanced) 找到Gamer 订阅地址
 
 ![](../../.gitbook/assets/2.jpg)
 
@@ -12,9 +15,5 @@
 
 ![](../../.gitbook/assets/4%20%281%29.jpg)
 
-三、选择自己需要的模式和节点后直接启动即可
-
-注：关于模式的选择不提供客服，软件进阶配置烦请自己摸索
-
-
+模式均为软件内置，配置文件请自行设置
 
