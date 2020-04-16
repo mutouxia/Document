@@ -45,7 +45,7 @@
       <td style="text-align:left">list</td>
       <td style="text-align:left">String</td>
       <td style="text-align:left">&#x662F;</td>
-      <td style="text-align:left">1</td>
+      <td style="text-align:left">surge / quantumultx / clash</td>
       <td style="text-align:left">
         <p>Surge Pro</p>
         <p>QuantumultX</p>
